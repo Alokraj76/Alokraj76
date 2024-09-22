@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/alok_raj12](https://linktr.ee/alok_raj12)
+- 👨‍💻 All of my platform link are available at [https://linktr.ee/alok_raj12](https://linktr.ee/alok_raj12)
 
 - 📫 How to reach me **alokra7651@gmail.com**
 
