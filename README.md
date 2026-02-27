@@ -1,5 +1,5 @@
-![logo](https://github.com/Alokraj76/Alokraj76/blob/main/Banner.jpg)
-<h1 align="center">Hi 👋, I'm Alok Raj</h1>
+<!--![logo](https://github.com/Alokraj76/Alokraj76/blob/main/Banner.jpg)
+<!-- <h1 align="center">Hi 👋, I'm Alok Raj</h1>
 <h3 align="center">Aspiring Software Developer | C++ and Java Explorer</h3>
 <img align="right" alt="codinng" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokraj76&label=Profile%20views&color=0e75b6&style=flat" alt="alokraj76" /> </p>
@@ -27,4 +27,80 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokraj76&show_icons=true&locale=en" alt="alokraj76" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokraj76&" alt="alokraj76" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokraj76&" alt="alokraj76" /></p> -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Alok%20Raj%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<h3 align="center">💻 MCA Student | Java & C++ Learner | DSA Enthusiast</h3>
+
+---
+
+## 🚀 About Me
+
+🎓 Pursuing MCA  
+💡 Passionate about Data Structures & Algorithms  
+🔥 400+ Days Coding Streak on GeeksforGeeks  
+☕ Java Certified | C++ Programmer  
+🌱 Currently learning: Advanced DSA & Full Stack Development  
+📍 Uttar Pradesh, India  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alokraj76&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokraj76&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Java (Basic) Certification  
+🏅 Infosys Springboard – Java Programming Fundamentals  
+🏅 Junior Coding Olympiad – Rank 34  
+🏅 400-Day GeeksforGeeks Streak  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yourlinktree.com">
+    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=Linktree&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote I Believe In
+
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+</p>
