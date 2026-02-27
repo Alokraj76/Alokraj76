@@ -85,10 +85,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/alok-raj12">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yourlinktree.com">
+  <a href="https://linktr.ee/alok_raj12">
     <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=Linktree&logoColor=white"/>
   </a>
 </p>
