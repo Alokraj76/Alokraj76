@@ -29,9 +29,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokraj76&" alt="alokraj76" /></p> -->
 <!-- Banner -->
-<p align="center">
+
+  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Alok%20Raj%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=public+class+AlokRaj+%7B;++++Java+Developer;++++DSA+Enthusiast;++++Backend+Explorer;%7D" />
+</p>
+
 
 <h3 align="center">💻 MCA Student | Java & C++ Learner | DSA Enthusiast</h3>
 
