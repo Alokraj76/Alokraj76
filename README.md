@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokraj76&show_icons=true&locale=en" alt="alokraj76" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokraj76&" alt="alokraj76" /></p> -->
-<!-- Banner -->
+<!-- Banner  -->
 
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Alok%20Raj%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
