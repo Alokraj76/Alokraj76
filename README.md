@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alokraj76&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokraj76&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Alokraj76&theme=tokyonight" height="150"/>
 </p>
 
 ---
