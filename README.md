@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokraj76&label=Profile%20views&color=0e75b6&style=flat" alt="alokraj76" /> </p>
 
 - 🌱 I’m currently learning **Java**
-
+ 
 - 👨‍💻 All of my platform link are available at [https://linktr.ee/alok_raj12](https://linktr.ee/alok_raj12)
 
 - 📫 How to reach me **alokra7651@gmail.com**
